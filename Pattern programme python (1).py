@@ -11,17 +11,6 @@ for i in range(0, 5): #for rows
     print()
 
 
-# In[42]:
-
-
-for i in range(0,5):
-    
-    for j in range(5):
-        print("**")
-    print("*" ,end="")
-   
-
-
 # In[6]:
 
 
